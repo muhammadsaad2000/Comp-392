@@ -1,0 +1,3 @@
+C:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build/CMakeFiles/VulkanHelloWorld.dir
+C:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build/CMakeFiles/ZERO_CHECK.dir

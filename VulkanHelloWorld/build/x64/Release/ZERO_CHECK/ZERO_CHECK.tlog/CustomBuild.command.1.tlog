@@ -1,0 +1,10 @@
+^C:\USERS\MUHAMMAD\DESKTOP\COMP-392\VULKANHELLOWORLD\BUILD\CMAKEFILES\D0E901BA89AFA4F85E4C2D87D94D8302\GENERATE.STAMP.RULE
+setlocal
+C:\cmake-3.31.5-windows-x86_64\bin\cmake.exe -SC:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build -BC:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Muhammad/Desktop/Comp-392/VulkanHelloWorld/build/VulkanHelloWorld.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
